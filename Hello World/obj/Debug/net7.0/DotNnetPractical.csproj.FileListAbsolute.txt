@@ -1,0 +1,15 @@
+C:\Users\User\Documents\DotNnetPractical\bin\Debug\net7.0\DotNnetPractical.exe
+C:\Users\User\Documents\DotNnetPractical\bin\Debug\net7.0\DotNnetPractical.deps.json
+C:\Users\User\Documents\DotNnetPractical\bin\Debug\net7.0\DotNnetPractical.runtimeconfig.json
+C:\Users\User\Documents\DotNnetPractical\bin\Debug\net7.0\DotNnetPractical.dll
+C:\Users\User\Documents\DotNnetPractical\bin\Debug\net7.0\DotNnetPractical.pdb
+C:\Users\User\Documents\DotNnetPractical\obj\Debug\net7.0\DotNnetPractical.csproj.AssemblyReference.cache
+C:\Users\User\Documents\DotNnetPractical\obj\Debug\net7.0\DotNnetPractical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\DotNnetPractical\obj\Debug\net7.0\DotNnetPractical.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DotNnetPractical\obj\Debug\net7.0\DotNnetPractical.AssemblyInfo.cs
+C:\Users\User\Documents\DotNnetPractical\obj\Debug\net7.0\DotNnetPractical.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DotNnetPractical\obj\Debug\net7.0\DotNnetPractical.dll
+C:\Users\User\Documents\DotNnetPractical\obj\Debug\net7.0\refint\DotNnetPractical.dll
+C:\Users\User\Documents\DotNnetPractical\obj\Debug\net7.0\DotNnetPractical.pdb
+C:\Users\User\Documents\DotNnetPractical\obj\Debug\net7.0\DotNnetPractical.genruntimeconfig.cache
+C:\Users\User\Documents\DotNnetPractical\obj\Debug\net7.0\ref\DotNnetPractical.dll
