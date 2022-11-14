@@ -1,0 +1,15 @@
+C:\Users\User\Documents\ProgramTraining1\ProgramTraining1\ProgramTraining1\obj\Debug\net6.0\ProgramTraining1.csproj.AssemblyReference.cache
+C:\Users\User\Documents\ProgramTraining1\ProgramTraining1\ProgramTraining1\obj\Debug\net6.0\ProgramTraining1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\ProgramTraining1\ProgramTraining1\ProgramTraining1\obj\Debug\net6.0\ProgramTraining1.AssemblyInfoInputs.cache
+C:\Users\User\Documents\ProgramTraining1\ProgramTraining1\ProgramTraining1\obj\Debug\net6.0\ProgramTraining1.AssemblyInfo.cs
+C:\Users\User\Documents\ProgramTraining1\ProgramTraining1\ProgramTraining1\obj\Debug\net6.0\ProgramTraining1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ProgramTraining1\ProgramTraining1\ProgramTraining1\bin\Debug\net6.0\ProgramTraining1.exe
+C:\Users\User\Documents\ProgramTraining1\ProgramTraining1\ProgramTraining1\bin\Debug\net6.0\ProgramTraining1.deps.json
+C:\Users\User\Documents\ProgramTraining1\ProgramTraining1\ProgramTraining1\bin\Debug\net6.0\ProgramTraining1.runtimeconfig.json
+C:\Users\User\Documents\ProgramTraining1\ProgramTraining1\ProgramTraining1\bin\Debug\net6.0\ProgramTraining1.dll
+C:\Users\User\Documents\ProgramTraining1\ProgramTraining1\ProgramTraining1\bin\Debug\net6.0\ProgramTraining1.pdb
+C:\Users\User\Documents\ProgramTraining1\ProgramTraining1\ProgramTraining1\obj\Debug\net6.0\ProgramTraining1.dll
+C:\Users\User\Documents\ProgramTraining1\ProgramTraining1\ProgramTraining1\obj\Debug\net6.0\refint\ProgramTraining1.dll
+C:\Users\User\Documents\ProgramTraining1\ProgramTraining1\ProgramTraining1\obj\Debug\net6.0\ProgramTraining1.pdb
+C:\Users\User\Documents\ProgramTraining1\ProgramTraining1\ProgramTraining1\obj\Debug\net6.0\ProgramTraining1.genruntimeconfig.cache
+C:\Users\User\Documents\ProgramTraining1\ProgramTraining1\ProgramTraining1\obj\Debug\net6.0\ref\ProgramTraining1.dll
